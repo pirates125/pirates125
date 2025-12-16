@@ -36,7 +36,6 @@ And now I'd like to invite the technologies I use to the stage. With your permis
 - Testing (Unit / Integration – Jest)
 
 ### **Currently Deepening**
-- Go  
 - Redis  
 - System Design  
 - Message Brokers (Kafka / RabbitMQ)
@@ -45,9 +44,9 @@ Now I invite the projects I have developed to the stage.
 
 ## 📌 My projects
 
-### 📚 Library Authorization System *(continues)* 
+### 📚 Core User API *(continues)* 
 
-I'm practically developing my understanding of role-based authority management, clear flow design, seamless error management, and modular architecture.
+I am practically improving my understanding of backend systems, clear workflow design, seamless error handling, and modular architecture.
 
 This project provides practical answers to questions like:
 
